@@ -1,11 +1,14 @@
 ---
 title: "Socially entrepreneurial behaviour of multinational companies: Are MNCs 'social entrepreneurs'?"
 date: 2011-01-01
-publishDate: 2020-02-24T22:56:54.522509Z
+publishDate: 2020-02-25T06:35:38.008883Z
 authors: ["Misagh Tasavori", "Rudolf R. Sinkovics"]
 publication_types: ["6"]
 abstract: "Introduction - Multinational corporations (MNCs) have been recognized as the key agents of globalization. Rugman and Verbeke (2004) highlight the fact that most MNCs’ sales are within their home region, namely in North America, the European Union and Asia. On the other hand, Dunning and Lundan (2008) emphasize that MNCs are deemed to be not only bringers of economic development but also agents of social well-being, especially in less developed countries. Thus, a growing number of MNCs are altering their strategies to play a substantial role as regional agents to solve social challenges. They are embracing a new approach to corporate social responsibility (CSR) by reformulating their CSR activities. They identify social problems, not as a challenge to be avoided, but as a profitable opportunity that can be seized. Among various social problems, this paper will focus on poverty, which has inspired MNCs’ efforts in less developed countries (London and Hart, 2004; Prahalad, 2009). For instance, the bottom of the pyramid (BOP) approach explains the new strategy for implementing social responsibility and poverty reduction as well as making profit. In his seminal book, The Fortune at the Bottom of the Pyramid, Prahalad (2004) provides examples of pioneering MNCs in emerging markets that have modified their businesses and processes. As in many emerging fields, most of the examples and case studies about the innovative initiatives of MNCs in offering sustainable solutions to social hurdles are fragmented and there have been few attempts to provide a theoretical explanation. Thus, this research aims to bridge this gap by borrowing the literature from entrepreneurship and social entrepreneurship domains. The primary contribution of this chapter will be to offer a theoretical clarification of the socially entrepreneurial behaviour of MNCs. Moreover, this conceptual work will contribute to extending the literature of international business and social entrepreneurship (SE) by offering the term ‘corporate social entrepreneurship’ as a new avenue for learning about MNCs’ role as social agents."
 featured: false
 publication: "*Firm-level Internationalisation, Regionalism and Globalization*"
+tags: ["Social entrepreneurship; Social entrepreneurship; Corporate social responsibility", "CSR; Bottom of the pyramid (BOP);"]
+url_pdf: "https://doi.org/10.1057/9780230305106"
+doi: "10.1057/9780230305106"
 ---
 
