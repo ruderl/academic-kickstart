@@ -1,7 +1,7 @@
 ---
 title: "New challenges to international marketing"
 date: 2009-01-01
-publishDate: 2020-02-25T06:35:37.867964Z
+publishDate: 2020-02-26T05:54:22.522906Z
 authors: ["Rudolf R. Sinkovics", "Pervez N. Ghauri"]
 publication_types: ["5"]
 abstract: ""

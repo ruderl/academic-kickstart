@@ -1,7 +1,7 @@
 ---
 title: "Cultural adaptation in cross-border web presence: An investigation of German companies’ domestic, US, UK and Latin-American websites"
 date: 2007-01-01
-publishDate: 2020-02-25T06:35:37.639642Z
+publishDate: 2020-02-26T05:54:22.415155Z
 authors: ["Matthias Hossinger", "Rudolf R. Sinkovics", "Mo Yamin"]
 publication_types: ["6"]
 abstract: "Standardization, adaptation, website, culture, "

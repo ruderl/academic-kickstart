@@ -1,7 +1,7 @@
 ---
 title: "Special Issue: Qualitative Marketing Forschung – Konzeptionelle Entwicklungen und Methodische Trends"
 date: 2009-01-01
-publishDate: 2020-02-25T06:35:37.842977Z
+publishDate: 2020-02-26T05:54:22.515910Z
 authors: ["Rudolf R. Sinkovics"]
 publication_types: ["2"]
 abstract: ""
