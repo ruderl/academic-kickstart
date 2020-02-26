@@ -35,6 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Visiting Professor"
   company = "LUT University"
+  company_url = "https://www.lut.fi"
   location = "Lappeenranta, Finland"
   date_start = "2013-11-01"
   date_end = ""
@@ -47,7 +48,7 @@ date_format = "Jan 2006"
   location = "Manchester, United Kingdom"
   date_start = "2009-08-01"
   date_end = "2019-12-31"
-  description = """Associate Director Internationalisation (2019), Director of Research for the Business School (2014-2017), Head of Comparative and International Business (CIB, 2009-2014), Director Comparative and International Business Research Centre (CIBER, 2009-2016), Alliance Manchester Business School (AMBS), The University of Manchester"""
+  description = """Associate Director Internationalisation (2019), Director of Research for the Business School (2014-2017), Head of Comparative and International Business (CIB, 2009-2014), Director Comparative and International Business Research Centre (CIBER, 2009-2016), Alliance Manchester Business School (AMBS)"""
 
 [[experience]]
     title = "Reader in International Business"
@@ -68,12 +69,22 @@ date_format = "Jan 2006"
       description = ""
 
 [[experience]]
-            title = "Lecturer in International Business"
-            company = "University of Manchester Institute of Science and Technology"
-            company_url = ""
-            location = "Manchester, United Kingdom"
-            date_start = "2001-09-01"
-            date_end = "2005-01-31"
-            description = ""
+      title = "Lecturer in International Business"
+      company = "University of Manchester Institute of Science and Technology"
+      company_url = ""
+      location = "Manchester, United Kingdom"
+      date_start = "2001-09-01"
+      date_end = "2005-01-31"
+      description = ""
+
+
+[[experience]]
+      title = "Lecturer in International Business"
+      company = "University of Manchester Institute of Science and Technology"
+      company_url = ""
+      location = "Manchester, United Kingdom"
+      date_start = "2001-09-01"
+      date_end = "2005-01-31"
+      description = ""
 
 +++
