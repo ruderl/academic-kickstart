@@ -8,7 +8,6 @@ abstract: "This chapter aims at taking stock of business-responsibility-related 
 featured: false
 publication: "*Socially responsible international business: Critical issues and the way forward*"
 tags: ["Responsibility", "social responsibility", "CSR", "international Business", "IB"]
-url_pdf: "https://doi.org/10.4337/9781788114127.00009"
+url_pdf: "Sinkovics-2019-OverviewSRDimensionsIB_AAM.pdf"
 doi: "10.4337/9781788114127.00009"
 ---
-

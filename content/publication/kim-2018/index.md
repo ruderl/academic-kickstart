@@ -9,6 +9,6 @@ featured: false
 publication: "*Management International Review*"
 tags: ["Information technology (IT)", "global supply chain", "virtual integration", "Multinational enterprise (MNE)", "communication culture", "buyer-supplier relationship", ""]
 url_pdf: "https://doi.org/10.1007/s11575-018-0344-4"
+url_preprint: "Kim-2018-VirtualIntegration.pdf"
 doi: "10.1007/s11575-018-0344-4"
 ---
-

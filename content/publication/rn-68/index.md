@@ -1,0 +1,13 @@
+---
+title: "Cross-border M&As in the EU and the USA: a regional analysis"
+date: 2005-01-01
+publishDate: 2020-03-09T06:59:35.337211Z
+authors: ["Rudolf R. Sinkovics", "Jennifer Murray"]
+publication_types: ["6"]
+abstract: "The book is based on the best papers presented at the 32nd Annual Conference of the UK Chapter of the Academy of International Business. With enlargement of the European Union in June 2004, the year witnessed the incorporation of 10 new member states. This enlargement presents significant economic, political and social challenges, but also provides major opportunities for collaboration between firms, governments and organisations. This book provides unique insights into the likely impact on international business policy and practice, following the dramatic changes to the context of the European marketplace. // Contents  List of Tables, List of Figures, Foreword; J.Clegg, Acknowledgements, Notes on the Contributors, Introduction: International Business in an Enlarging Europe; T.Morrow, S.Loane, J,Bell & C.Wheeler, PART I: INTERNALIZATION ISSUES, Non-sequential Internationalization Processes between Competition and Co-operation: A Tentative Reconciliation of Alternative Approaches; A.Zucchella, High-Tech, High Turbulence, High Performance? The Role of Competitive Environment in the Relationship between Technology Intensity, Customer Orientation and Export Performance; O.Kuivalainen, S.Sundqvis & J.W.Cadogan, PART II: EU ACCESSION, Trick or Treat? The Implications of EU Enlargement for the Location of Clothing Production; J.Newton & R.Strange, An Organizational Ecology-Based Study of Enterprise Development in Lithuania; D.Pollard & M.Jemicz, PART III: ENTRY MODES AND INVESTMENT, An Investigation into Factors Influencing Foreign Market Entry in Eastern Europe; H.Rogers; P.N.Ghauri & H.Langaard, Investing in Politically Unstable Countries: A Real Options Approach; A.Kudina, PART IV: MERGERS AND ACQUISITIONS, The Management of Communication and Interpersonal Relationships in the M&A Context; V.Kusstatscher, Cross-border M&A's in the EU and the US: A Regional Analysis; R.R.Sinkovics & J.Murray, The Role of the HR Function in International Mergers and Acquisitions; E.M.Antila, Culture Clashes and Organizational Identification in Cross-border Acquisitions; A.Zoueva, PART V: INTERNATIONAL HRM, Corporate Governance, Path Dependence and Neo-institutionalism: Business History and Modern Germany; T.Buck & A.Shahrim, The Strategic Development of Subsidiaries and Employment in Host Locations; F.McDonald, H-J.Tüselmann, U.Hope & D.Williams"
+featured: false
+publication: "*International business in an enlarging Europe*"
+tags: ["Mergers and acquisitions", "cross-border", "M&A"]
+url_pdf: "http://www.palgrave.com/"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "Multilingual interviews and software-based analysis (in German: Mehrsprachige Interviews und softwaregestützte Analyse - Problemlösungen und Implementierung mit NVivo7)"
+date: 2007-01-01
+publishDate: 2020-03-09T06:59:35.349213Z
+authors: ["Rudolf R. Sinkovics", "Elfriede Penz"]
+publication_types: ["6"]
+abstract: "Die qualitative internationale Marketingforschung findet in zunehmendem Maße Zuspruch in der betrieblichen Praxis. Über die Bedeutung der Sprache im Kontext der Fragebogengestaltung und auch der länderübergreifenden Datenerhebung wurde bereits viel publiziert (Brislin 1970, Piekkari/Welch 2004, Pike 1966). Allerdings wurde die Praxis der qualitativen Datenerhebung und Analyse mehrsprachiger Forschungsprojekte bislang nur in unzureichendem Maße vor dem Hintergrund neuartiger softwaregestützter Verfahren besprochen. Dieser Artikel nähert sich dem Themenfeld Mehrsprachigkeit bei Interviews und softwaregestützte Analyse auf die folgende Weise an: Zunächst wird die Problemstellung definiert, anschliessend die Bedeutung der Sprache im multinationalen Management und in der internationalen Forschung erörtert. In diesem Zusammenhang werden auch Konzepte der Datenäquivalenz im Kontext qualitativer Expertinneninterviews erläutert. Im Abschnitt \"softwaregestützte Lösungsansätze\" wird auf operative Themenfelder unter Benutzung des Softwaretools NVivo 7 (Richards 2002) exemplarisch eingegangen."
+featured: false
+publication: "*Qualitative Marktforschung - Theorie, Methode, Analyse*"
+tags: ["Qualitative research", "NVivo", "multilingual", "Software", "CAQDAS"]
+url_pdf: "http://dx.doi.org/10.1007/978-3-8349-9258-1_57"
+doi: "10.1007/978-3-8349-9258-1_57"
+---
+
